@@ -1,3 +1,8 @@
+## Overview
+
+This repository serves as a test cookiecutter template for project initialization.
+
+
 .. image:: https://img.shields.io/pypi/v/PROJECT.svg
    :target: https://pypi.org/project/PROJECT
 
