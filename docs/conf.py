@@ -31,7 +31,7 @@ link_files = {
 # Be strict about any broken references
 nitpicky = True
 
-# Include Python intersphinx mapping to prevent failures
+# Include Python intersphinx mapping to prevent failure
 # jaraco/skeleton#51
 extensions += ['sphinx.ext.intersphinx']
 intersphinx_mapping = {
